@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome",
+  "home": "This small project is a demonstration of multilanguage functionality for websites or applications, catering to users from different parts of the world. I've utilized the React i18next library for this purpose.In the About section, you'll find a brief introduction about Dr. A.P.J. Abdul Kalam available in English, Hindi, and Sanskrit languages. By clicking on different languages, the entire content of the page will change accordingly. ",
+  "about": "About",
+  "brief": "Dr.APJ Kalam",
+  "image": "https://im.indiatimes.in/content/2023/Jul/apj-abdul-kalam1_64c10624a26ef.jpg?w=820&h=540&cc=1",
+  "content": "Dr. A.P.J. Abdul Kalam, born on October 15, 1931, in Rameswaram, India, was a visionary scientist and the 11th President of India (2002-2007). He played a key role in India's space and missile programs and was known for his commitment to education and youth empowerment. Dr. Kalam's simplicity, humility, and dedication made him a beloved figure. He passed away on July 27, 2015, leaving behind a legacy of inspiration for generations."
+}

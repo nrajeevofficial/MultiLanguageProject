@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.card {
+  width: 50%;
+  max-width: 100%; /* Ensure it doesn't exceed the screen width */
+  height: auto;
+  margin: auto;
+  box-sizing: border-box; /* Include padding and border in width calculation */
+  /* Add additional styles for styling the card content if necessary */
+}
+.container {
+  width: 100%; /* Ensure the container takes up the full screen width */
+  padding: 20px; /* Add padding as needed */
+  box-sizing: border-box; /* Include padding in width calculation */
+}
+#image {
+  width: 100%; /* Use a percentage value for responsive width */
+  max-width: 200px; /* You can set a max-width if needed */
+  height: auto;
+}
+.content {
+  font-size: 16px;
+}
+.main {
+  background-color: darkslategray;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
