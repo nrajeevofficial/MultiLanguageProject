@@ -1,6 +1,6 @@
 {
   "welcome": "Welcome",
-  "home": "This small project is a demonstration of multilanguage functionality for websites or applications, catering to users from different parts of the world. I've utilized the React i18next library for this purpose.In the About section, you'll find a brief introduction about Dr. A.P.J. Abdul Kalam available in English, Hindi, and Sanskrit languages. By clicking on different languages, the entire content of the page will change accordingly. ",
+  "home": "This small project is a demonstration of multilanguage functionality for websites or applications, catering to users from different parts of the world. I've utilized the React i18next library for this purpose.In the About section, you'll find a brief introduction about Dr. A.P.J. Abdul Kalam available in English, Hindi, Sanskrit and German languages. By clicking on different languages, the entire content of the page will change accordingly.",
   "about": "About",
   "brief": "Dr.APJ Kalam",
   "image": "https://im.indiatimes.in/content/2023/Jul/apj-abdul-kalam1_64c10624a26ef.jpg?w=820&h=540&cc=1",
