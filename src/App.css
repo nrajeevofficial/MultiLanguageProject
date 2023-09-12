@@ -1,8 +1,11 @@
+/* Reset default margin, padding, and box-sizing for all elements */
 * {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
 }
+
+/* Styling for a card element */
 .card {
   width: 50%;
   max-width: 100%; /* Ensure it doesn't exceed the screen width */
@@ -11,19 +14,27 @@
   box-sizing: border-box; /* Include padding and border in width calculation */
   /* Add additional styles for styling the card content if necessary */
 }
+
+/* Styling for a container element */
 .container {
   width: 100%; /* Ensure the container takes up the full screen width */
   padding: 20px; /* Add padding as needed */
   box-sizing: border-box; /* Include padding in width calculation */
 }
+
+/* Styling for an image element with responsive width */
 #image {
   width: 100%; /* Use a percentage value for responsive width */
   max-width: 200px; /* You can set a max-width if needed */
   height: auto;
 }
+
+/* Styling for content text */
 .content {
   font-size: 16px;
 }
+
+/* Styling for the main content area */
 .main {
   background-color: darkslategray;
   color: white;

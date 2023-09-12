@@ -1,8 +1,8 @@
 {
-    "welcome": "Willkommen",
-    "home": "Dieses kleine Projekt ist eine Demonstration der mehrsprachigen Funktionalität für Websites oder Anwendungen und richtet sich an Benutzer aus verschiedenen Teilen der Welt. Zu diesem Zweck habe ich die React i18next-Bibliothek verwendet. Im Abschnitt „Info“ finden Sie eine kurze Einführung zu Dr. A.P.J. Abdul Kalam ist in den Sprachen Englisch, Hindi, Sanskrit und Deutsch verfügbar. Durch Klicken auf verschiedene Sprachen ändert sich der gesamte Inhalt der Seite entsprechend.",
-    "about": "Um",
-    "brief": "Dr.APJ Kalam",
-    "image": "https://im.indiatimes.in/content/2023/Jul/apj-abdul-kalam1_64c10624a26ef.jpg?w=820&h=540&cc=1",
-    "content": "Dr. A.P.J. Abdul Kalam, geboren am 15. Oktober 1931 in Rameswaram, Indien, war ein visionärer Wissenschaftler und der 11. Präsident Indiens (2002-2007). Er spielte eine Schlüsselrolle in Indiens Raumfahrt- und Raketenprogrammen und war für sein Engagement für Bildung und die Stärkung der Jugend bekannt. Dr. Kalams Einfachheit, Bescheidenheit und Hingabe machten ihn zu einer beliebten Persönlichkeit. Er verstarb am 27. Juli 2015 und hinterließ ein Erbe der Inspiration für Generationen."
-  }
+  "welcome": "Willkommen",
+  "home": "Dieses kleine Projekt ist eine Demonstration der mehrsprachigen Funktionalität für Websites oder Anwendungen und richtet sich an Benutzer aus verschiedenen Teilen der Welt. Zu diesem Zweck habe ich die React i18next-Bibliothek verwendet. Im Abschnitt „Info“ finden Sie eine kurze Einführung zu Dr. A.P.J. Abdul Kalam ist in den Sprachen Englisch, Hindi, Sanskrit und Deutsch verfügbar. Durch Klicken auf verschiedene Sprachen ändert sich der gesamte Inhalt der Seite entsprechend.",
+  "about": "Um",
+  "brief": "Dr.APJ Kalam",
+  "image": "https://im.indiatimes.in/content/2023/Jul/apj-abdul-kalam1_64c10624a26ef.jpg?w=820&h=540&cc=1",
+  "content": "Dr. A.P.J. Abdul Kalam, geboren am 15. Oktober 1931 in Rameswaram, Indien, war ein visionärer Wissenschaftler und der 11. Präsident Indiens (2002-2007). Er spielte eine Schlüsselrolle in Indiens Raumfahrt- und Raketenprogrammen und war für sein Engagement für Bildung und die Stärkung der Jugend bekannt. Dr. Kalams Einfachheit, Bescheidenheit und Hingabe machten ihn zu einer beliebten Persönlichkeit. Er verstarb am 27. Juli 2015 und hinterließ ein Erbe der Inspiration für Generationen."
+}
