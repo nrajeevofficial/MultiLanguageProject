@@ -39,6 +39,7 @@ function Header() {
               <option value="en">English</option>
               <option value="hi">हिंदी</option>
               <option value="sa">Sanskrit</option>
+              <option value="gr">German</option>
             </select>
           </li>
         </ul>
