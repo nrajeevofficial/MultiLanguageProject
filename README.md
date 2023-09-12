@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-use "npm install" to insall all the required node modules which are required for the project.
+use "npm install" to install all the required node modules which are required for the project.
 
 ## Available Scripts
 
